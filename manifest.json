@@ -1,0 +1,15 @@
+{
+    "name": "EarthquakeFacts",
+    "version": "1.0.0",
+    "description": "This extension provides some facts on Earthquakes. It also provides the realtime details on the recent Earthquake events around the world.",
+    "manifest_version": 3,
+    "author": "Vikas Malhotra",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "EarthquakeFacts",
+        "default_icon": {
+            "16": "logo-16.png",
+            "128": "logo-128.png"
+        }
+    }
+}
